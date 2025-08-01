@@ -1,7 +1,7 @@
 
   <h1>Hi, I'm Shreyansh Paliwal   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFla2N4Y283aTVja3RlNWRlazJnM3Jmdjd4a2J0bXZqMWgxYjdxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohhwMDyS6rv3sB8yI/giphy.gif" width="75px"> </h1>
-  <h3>Software Developer - Full Stack</h3>
-  <h3>B.Tech Undergrad @ Guru Gobind Singh Indraprastha University (MAIT) Delhi</h3>
+  <h4>Software Developer - Full Stack <br>
+  B.Tech Undergrad @ Guru Gobind Singh Indraprastha University (MAIT) Delhi</h4>
 <!--   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVtdzQ5Z2x4eDdiMXl3MThmaHVpa2o0Mm1zMjdwdDV0eGJsOTdmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XO8RMtRaK73isIt0i2/giphy.gif" width="250px" /> -->
 <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgxejl3M2hkaHVoMHd2YTdhY3RtY3ZpanRyaWFxMDE0a2t4M3l0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" height="250px" > -->
 
