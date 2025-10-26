@@ -38,8 +38,7 @@
   Tech: Python, AWS, GCP — [PR #178](https://github.com/OpenNyAI/Jugalbandi-Manager/pull/178)
 
 - 🔧 **Contributor to Git (git-scm)**  
-  Submitted a patch to the actual Git codebase - [Patch](https://lore.kernel.org/git/20231203171956.771-1-shreyanshpaliwalcmsmn@gmail.com/##t)
-   and released in Git [v2.44.0](https://lore.kernel.org/git/xmqqbk87w164.fsf@gitster.g/)
+  Submitted a patch [#9c3cf12b26](https://lore.kernel.org/git/20231203171956.771-1-shreyanshpaliwalcmsmn@gmail.com/##t) to the Git codebase and it was released in Git [v2.44.0](https://lore.kernel.org/git/xmqqbk87w164.fsf@gitster.g/)
 
 - 🌟 **GSSoC 2024 Extd. Contributor**
 
