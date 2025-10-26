@@ -39,6 +39,7 @@
 
 - 🔧 **Contributor to Git (git-scm)**  
   Submitted a patch to the actual Git codebase - [Patch](https://lore.kernel.org/git/20231203171956.771-1-shreyanshpaliwalcmsmn@gmail.com/##t)
+   and released in Git [v2.44.0](https://lore.kernel.org/git/xmqqbk87w164.fsf@gitster.g/)
 
 - 🌟 **GSSoC 2024 Extd. Contributor**
 
