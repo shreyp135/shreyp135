@@ -9,11 +9,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm a third-year B.Tech student majoring in Information Technology with Cgpa of **9.22**.
+- 🎓 I'm a third-year B.Tech student majoring in Information Technology with Cgpa of **9.14**.
 - 🌐 Passionate about **Software Development** with solid Full Stack Web experience.
 - 🧠 Strong foundation in **Data Structures & Aglorithms** and solving real-world problems.
 - 🌱 Currently exploring **Python**, **AI**, and **AWS** to build scalable backend systems.
-- 🛠️ Experienced in working with **Javascript & Typescript**, **React with Tailwind CSS**, **Node.js**.
+- 🛠️ Experienced in working with **C/C++**, **Javascript & Typescript**, **React with Tailwind CSS**, **Node.js**.
 - 🎶 Music listener 24×7 | 😄 Sitcom lover (Friends supremacy!)
 - 💡 **Fun Fact:** My first ever error was `ArrayIndexOutOfBoundsException` in Java — and it made me fall in love with coding.
 
@@ -31,8 +31,8 @@
 
 ### 🌍 Open Source Achievements
 - 🥇 **Augtoberfest 2024 (C4GT) Winner**
-  
-  <img src ="https://media.licdn.com/dms/image/v2/D562DAQGFbmd0fUqz-Q/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1731508963772?e=1754654400&v=beta&t=iQkGNMVYeAeVjDSw28E5E4xzvkPyaFW1GYA9d-R_sXY" height="250px">
+
+  <img height="300px" alt="image" src="https://github.com/user-attachments/assets/4de9f950-2a97-4e13-b7d5-0ada4b36d710" />
 
 - 🤝 **Contributor @ OpenNyAI (JBManager Project)**  
   Tech: Python, AWS, GCP — [PR #178](https://github.com/OpenNyAI/Jugalbandi-Manager/pull/178)
