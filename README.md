@@ -63,5 +63,5 @@
 }
 ```
 ### 🌐 Socials
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyanshpaliwalcmsmn@gmail.com) [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanshpaliwal135/) [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=black)](https://leetcode.com/u/shreyanshpaliwal18/) [![Resume](https://img.shields.io/badge/Resume-%232C3454?logo=resend&logoColor=white)](https://drive.google.com/file/d/1bhWmfL6nnz2NCwJnEM_Lw9ONSxioL_FP/view?usp=sharing)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyanshpaliwalcmsmn@gmail.com) [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanshpaliwal135/) <!-- [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=black)](https://leetcode.com/u/shreyanshpaliwal18/) -->[![Resume](https://img.shields.io/badge/Resume-%232C3454?logo=resend&logoColor=white)](https://drive.google.com/file/d/1bhWmfL6nnz2NCwJnEM_Lw9ONSxioL_FP/view?usp=sharing)
 
