@@ -59,8 +59,8 @@
   "Languages": ["C/C++", "JavaScript", "TypeScript", "Python", "Java"],
   "Frontend": ["React.js", "HTML", "CSS", "Tailwind CSS", "Bootstrap"],
   "Backend": ["Node.js", "Express.js", "Websockets(socket.io)"],
-  "Database": ["MongoDB", "MySQL", "Aws"],
-  "Tools": ["VS Code", "Postman", "Figma", "Git"]
+  "Database": ["MongoDB", "MySQL", "Aws", redis],
+  "Tools": ["VS Code", "Postman", "Figma", "Git", docker]
 }
 ```
 ### 🌐 Socials
