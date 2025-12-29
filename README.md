@@ -17,6 +17,7 @@
 - 🎶 Music listener 24×7 | 😄 Sitcom lover (Friends supremacy!)
 - 💡 **Fun Fact:** My first ever error was `ArrayIndexOutOfBoundsException` in Java — and it made me fall in love with coding.
 
+#### Or try learning about me the developer way by running `npx shreyansh-npm-cli` on your terminal :)
 ---
 
 ### 💼 Professional Experience
@@ -63,5 +64,6 @@
 }
 ```
 ### 🌐 Socials
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyanshpaliwalcmsmn@gmail.com) [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanshpaliwal135/) <!-- [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=black)](https://leetcode.com/u/shreyanshpaliwal18/) -->[![Resume](https://img.shields.io/badge/Resume-%232C3454?logo=resend&logoColor=white)](https://bit.ly/resume_ShreyanshPaliwal)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyanshpaliwalcmsmn@gmail.com) [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanshpaliwal135/) <!-- [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=black)](https://leetcode.com/u/shreyanshpaliwal18/) -->[![NPM package](https://img.shields.io/badge/Npm_Package-%23CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/shreyansh-npm-cli)
+[![Resume](https://img.shields.io/badge/Resume-%232C3454?logo=resend&logoColor=white)](https://bit.ly/resume_ShreyanshPaliwal)
 
