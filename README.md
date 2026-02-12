@@ -35,12 +35,12 @@
 
   <img height="300px" alt="image" src="https://github.com/user-attachments/assets/4de9f950-2a97-4e13-b7d5-0ada4b36d710" />
 
-- 🤝 **Contributor @ OpenNyAI (JBManager Project)**  
+- 🤝 **Contributor @ [OpenNyAI](https://github.com/OpenNyAI/Jugalbandi-Manager)**  
   Tech: Python, AWS, GCP — [PR #178](https://github.com/OpenNyAI/Jugalbandi-Manager/pull/178)
 
-- 🔧 **Contributor to Git (git-scm)**  
-  Submitted a patch [#9c3cf12b26](https://lore.kernel.org/git/20231203171956.771-1-shreyanshpaliwalcmsmn@gmail.com/##t) to the Git codebase and it was released in Git [v2.44.0](https://lore.kernel.org/git/xmqqbk87w164.fsf@gitster.g/)
-
+- 🔧 **Contributions @ [Git](https://github.com/git/git)**  
+Discussions at [mailing list](https://lore.kernel.org/git/?q=shreyanshpaliwalcmsmn%40gmail.com) <br>
+Merged Commits: https://bit.ly/4raQKcF
 - 🌟 **GSSoC 2024 Extd. Contributor**
 
 ---
