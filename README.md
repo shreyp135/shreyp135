@@ -38,7 +38,7 @@
 
 - **Contributions @ [Git](https://github.com/git/git)**  
 Discussions at [mailing list](https://lore.kernel.org/git/?q=shreyanshpaliwalcmsmn%40gmail.com) <br>
-Merged Commits: https://bit.ly/4raQKcF
+Merged Commits: [master branch](https://github.com/git/git/commits?author=shreyp135) | [Seen branch](https://github.com/git/git/commits/seen?author=shreyp135)
 - **GSSoC 2024 Extd. Contributor**
 
 ---
