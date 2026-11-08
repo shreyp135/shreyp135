@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-- I'm a third-year B.Tech student majoring in Information Technology with Cgpa of **9.14**.
+- I'm a final-year B.Tech student majoring in Information Technology with Cgpa of **8.97**.
 - Passionate about **Software Development** with Full Stack experience.
 - Strong foundation in **Data Structures & Aglorithms** and solving real-world problems.
 - Experienced in working with **C/C++**, **Javascript & Typescript**, **React/Next.js with Tailwind CSS**, **Node.js** and cloud .
